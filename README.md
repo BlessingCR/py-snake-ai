@@ -1,2 +1,7 @@
 # py-snake-ai
-Python snake with AI control. Python 贪食蛇, AI 自动控制
+
+Python 贪食蛇, AI 自动控制
+
+Python snake with AI control.
+
+Inspired by https://github.com/Hawstein/snake-ai
